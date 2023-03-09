@@ -45,7 +45,7 @@ if (isset($_SESSION["userId"])) {
                 <div class="py-2 my-4">
                     <div>
                         <p class="text-white"><i class="fa fa-map-marker mx-2 "></i>
-                            Houtmolenstraat 9
+                            hof van parijs
                             Doetinchem
                             </p>
                     </div>
